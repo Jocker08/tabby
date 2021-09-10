@@ -52,7 +52,7 @@
     "@types/node": "15.12.5",
     "ngx-filesize": "^2.0.16",
     "node-abi": "^2.30.0",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.20"
   },
   "peerDependencies": {
     "tabby-community-color-schemes": "*",
