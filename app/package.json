@@ -41,7 +41,7 @@
     "zone.js": "^0.11.4"
   },
   "optionalDependencies": {
-    "macos-native-processlist": "^2.0.0",
+    "macos-native-processlist": "^2.1.0",
     "serialport": "^9.2.0",
     "windows-blurbehind": "^1.0.1",
     "windows-native-registry": "^3.0.0",
