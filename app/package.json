@@ -37,7 +37,7 @@
     "node-pty": "^0.10.1",
     "npm": "6",
     "rxjs": "^7.1.0",
-    "yargs": "^17.0.1",
+    "yargs": "^17.6.0",
     "zone.js": "^0.11.4"
   },
   "optionalDependencies": {
